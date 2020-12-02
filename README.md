@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello 👋
 
-I'm Varun. I am some kind of engineer. Always happy to talk tech - you can find me on:
+I'm Varun Tomar. I am some kind of engineer. You can find me on:
 
 [Twitter](https://twitter.com/varuntomar2019)
 
