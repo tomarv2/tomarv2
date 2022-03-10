@@ -1,8 +1,6 @@
 <p align="center">
     <a href="https://stackoverflow.com/users/6679867/tomarv2" alt="Stack Exchange reputation">
         <img src="https://img.shields.io/stackexchange/stackoverflow/r/6679867"></a>
-    <a href="https://discord.gg/XH975bzN" alt="chat on Discord">
-        <img src="https://img.shields.io/discord/813961944443912223?logo=discord"></a>
     <a href="https://twitter.com/intent/follow?screen_name=varuntomar2019" alt="follow on Twitter">
         <img src="https://img.shields.io/twitter/follow/varuntomar2019?style=social&logo=twitter"></a>
 </p>
@@ -14,7 +12,7 @@ I'm Varun Tomar.
 
 ### Technologies that I work on:
 
-* Python
+* Python/Go
 * AWS/Azure/GCP
 * Terraform
 * Jenkins
@@ -34,10 +32,10 @@ I'm Varun Tomar.
 - [K8S Pod Security Policy](https://tomarv2.medium.com/k8s-pod-security-policies-abff76d8075d)
 
 <p align=center>
-  <a href="https://github.com/tomarv2/github-readme-stats" title="Go to Source">
+  <a href="https://github-readme-stats.vercel.app/api?username=tomarv2" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=tomarv2&show_icons=true&theme=gotham">
   </a>
-  <a href="https://github.com/tomarv2/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tomarv2">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomarv2&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
 </p>
