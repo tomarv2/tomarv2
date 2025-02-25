@@ -12,15 +12,12 @@ I'm Varun Tomar.
 
 ### Technologies that I work on:
 
-* Python/Go
+* Python
 * AWS/Azure/GCP
 * Terraform
 * Jenkins
 * k8s
-* Spinnaker
-* Service Mesh
 * Prometheus
-* Data Ingestion
 * Databricks
 * FiveTran
 
